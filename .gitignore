@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Purescript Stuff
+.output
+.purs-repl
+output/
+output.js
